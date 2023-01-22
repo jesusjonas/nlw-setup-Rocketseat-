@@ -19,3 +19,4 @@
 
 O Habits é um projeto para ajudar a rastrear os hábitos.
 
+Desenvolvedor front end:<i> Jonas Oliveira</i>
